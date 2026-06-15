@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-las-noches-frias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Calor en las noches frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-las-noches-frias/) |
+| **Get License** | [Official Music Licensing for Calor en las noches frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-las-noches-frias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `06e5ab1e0ac29cbc4d2356d02838742a7e08d7ac75c7906d8705746cfd0fe887` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

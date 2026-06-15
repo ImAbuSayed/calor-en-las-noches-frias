@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor en las noches frías
+
+This log tracks the cryptographic history and versioning for the song **Calor en las noches frías** (calor-en-las-noches-frias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:53:14.291421 | `v1` | `06e5ab1e0ac29cbc4d2356d02838742a7e08d7ac75c7906d8705746cfd0fe887` | `3b02a2735aea68a585290ee5a1f07c3e4fdc24226e3ae7aaf26ff3314be51e3e` | `2026-06-15_calor-en-las-noches-frias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
