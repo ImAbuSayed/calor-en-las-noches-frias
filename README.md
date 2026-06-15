@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-las-noches-frias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Calor en las noches frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-las-noches-frias/) |
+| **Get License** | [Get License For Calor en las noches frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-las-noches-frias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero ese calor en la noche más fría
+> Sentir tu cuerpo rozando en la vía
+> Tus ojos me miran, me invitan a pecar
+> Un fuego salvaje que no sé apagar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
